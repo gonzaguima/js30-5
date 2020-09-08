@@ -1,2 +1,2 @@
 # js30-5
- ajax 
+flex panels
